@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91557028",
+    "firebase_url": "https://ogrencitasima-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ogrencitasima",
+    "storage_bucket": "ogrencitasima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91557028:android:8110f06ca138d57a2aaa31",
+        "android_client_info": {
+          "package_name": "com.example.tasimaprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91557028-mp3t9va39snd5h884t8021kg8a5o9c8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGovdGbpdO0DAgz_l80G9lKtOloV_QWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91557028-mp3t9va39snd5h884t8021kg8a5o9c8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
